@@ -557,7 +557,7 @@ body.section-switching.up .animation-block{
     text-transform:uppercase;
 }
 .info-list > li > span{
-    color:rgba(0,0,0,.4);
+    color:rgba(0,0,0,.8);
 }
 .services-block .section-header{
     margin-bottom:80px;
